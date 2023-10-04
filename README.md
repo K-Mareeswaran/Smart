@@ -1,0 +1,2 @@
+# Smart
+Definition and thinking
